@@ -1,6 +1,6 @@
 # quiz_app
 
-A new Flutter project.
+A flutter quiz app with a home page, questions page and results page. User has ability to restart quiz, correct answers as well as user answers are indicated on the results screen. 
 
 ## Getting Started
 
